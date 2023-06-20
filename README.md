@@ -4,7 +4,7 @@
 # We start now 👋
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kubilaydirek)](https://git.io/streak-stats)
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />https://www.linkedin.com/in/kubilay-direk-a28166b1/
+
 
 <!--
 **kubilaydirek/kubilaydirek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
