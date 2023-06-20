@@ -1,4 +1,7 @@
-### Hi there 👋
+
+![S0S](https://github.com/kubilaydirek/kubilaydirek/assets/97626735/7ef70f74-787d-4068-b717-87fcee8a48bd)
+
+# We start now 👋
 
 <!--
 **kubilaydirek/kubilaydirek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
